@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "huacnlee.autocorrect",
+    "biomejs.biome",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
